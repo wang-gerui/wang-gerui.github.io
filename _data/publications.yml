@@ -6,7 +6,7 @@ main:
     conference: International Conference on Financial Cryptography and Data Security, 2023.
     pdf: https://eprint.iacr.org/2022/1513.pdf
 
-  - title: Minotaur: Multi-Resource Blockchain Consensus
+  - title: "Minotaur: Multi-Resource Blockchain Consensus"
     authors: Matthias Fitzi, Xuechao Wang,  Sreeram Kannan, Aggelos Kiayias, Nikos Leonardos, Pramod Viswanath, Gerui Wang
     conference_short: CCS
     conference: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
