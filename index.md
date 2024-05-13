@@ -4,7 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a blockchain research scientist at the Beijing Academy of Blockchain and Edge Computing. I earned my Ph.D. in the Department of Computer Science at the University of Illinois at Urbana-Champaign, under the supervision of Prof. Pramod Viswanath. Before that, I obtained my Bachelor's degree in the Yao Class, IIIS at Tsinghua University.
+I am a blockchain research scientist at Beijing Academy of Blockchain and Edge Computing. I am actively seeking collaboration with researchers in areas related to blockchain technology.
+
+I earned my Ph.D. in Computer Science at University of Illinois Urbana-Champaign, under the supervision of Prof. Pramod Viswanath.
+
+I obtained my bachelor's degree at Yao Class, IIIS, Tsinghua University.
 
 ## Research Interests
 

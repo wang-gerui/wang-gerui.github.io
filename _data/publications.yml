@@ -1,7 +1,43 @@
 main:
 
   - title: Player-replaceability and forensic support are two sides of the same (crypto) coin
-    authors: Peiyao Sheng, Gerui Wang, Kartik Nayak, Sreeram Kannan, and Pramod Viswanath.
+    authors: Peiyao Sheng, Gerui Wang, Kartik Nayak, Sreeram Kannan, Pramod Viswanath.
     conference_short: FC
     conference: International Conference on Financial Cryptography and Data Security, 2023.
     pdf: https://eprint.iacr.org/2022/1513.pdf
+
+  - title: Minotaur: Multi-Resource Blockchain Consensus
+    authors: Matthias Fitzi, Xuechao Wang,  Sreeram Kannan, Aggelos Kiayias, Nikos Leonardos, Pramod Viswanath, Gerui Wang
+    conference_short: CCS
+    conference: Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
+    pdf: https://arxiv.org/pdf/2201.11780
+
+  - title: BFT Protocol Forensics
+    author: Peiyao Sheng, Gerui Wang, Kartik Nayak, Sreeram Kannan, Pramod Viswanath
+    conference_short: CCS
+    conference: Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security
+    pdf: https://arxiv.org/pdf/2010.06785
+    notes: Best Paper Award Runner-Up
+
+  - title: Prism Removes Consensus Bottleneck for Smart Contracts
+    author: Gerui Wang, Shuo Wang, Vivek Bagaria, David Tse, Pramod Viswanath
+    conference_short: CVCBT
+    conference: 2020 Crypto Valley Conference on Blockchain Technology
+    pdf: https://arxiv.org/pdf/2004.08776
+
+  - title: Compounding of Wealth in Proof-of-Stake Cryptocurrencies
+    author: Giulia Fanti, Leonid Kogan, Sewoong Oh, Kathleen Ruan, Pramod Viswanath, Gerui Wang
+    conference_short: FC
+    conference: International Conference on Financial Cryptography and Data Security, 2019.
+    pdf: https://arxiv.org/pdf/1809.07468
+
+  - title: Efficient and robust detection of multipartite Greenberger-Horne-Zeilinger-like states
+    author: Qi Zhao, Gerui Wang, Xiao Yuan, Xiongfeng Ma
+    conference_short: PRA
+    conference: Phys. Rev. A, 2019
+    pdf: https://arxiv.org/pdf/1902.07869
+
+  - title: Context-Based Few-Shot Word Representation Learning
+    author: Chenxing Li, Gerui Wang, Gerard De Melo
+    conference_short: ICSC
+    conference: 2018 IEEE 12th International Conference on Semantic Computing
