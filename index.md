@@ -16,6 +16,8 @@ I obtained my bachelor's degree at Yao Class, IIIS, Tsinghua University.
 - **Distributed protocol:** consensus, distributed computing, distributed storage
 - **Zero-knowledge proof:** zkSnarks, zkRollups, zkVMs
 
+{% include_relative _includes/education.md %}
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/experience.md %}

@@ -36,8 +36,3 @@ main:
     conference_short: PRA
     conference: Phys. Rev. A, 2019
     pdf: https://arxiv.org/pdf/1902.07869
-
-  - title: Context-Based Few-Shot Word Representation Learning
-    authors: Chenxing Li, Gerui Wang, Gerard De Melo
-    conference_short: ICSC
-    conference: 2018 IEEE 12th International Conference on Semantic Computing
