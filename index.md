@@ -14,7 +14,7 @@ I obtained my bachelor's degree at Yao Class, IIIS, Tsinghua University.
 
 - **Blockchain:** blockchain security and scalability
 - **Distributed protocol:** consensus, distributed computing, distributed storage
-- **Zero-knowledge proof:** zkSnarks, zkRollups, zkVMs
+- **Zero-knowledge proof:** zkSNARKs, zkRollups, zkVMs
 
 {% include_relative _includes/education.md %}
 
