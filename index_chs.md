@@ -12,9 +12,9 @@ layout: homepage
 
 ## 研究兴趣
 
-- **区块链:** 区块链安全与可扩展性
-- **分布式协议:** 共识算法、分布式计算、分布式存储
-- **零知识证明:** zkSNARKs、zkRollups、zkVMs
+- **区块链：** 区块链安全与可扩展性
+- **分布式协议：** 共识算法、分布式计算、分布式存储
+- **零知识证明：** zkSNARKs、zkRollups、zkVMs
 
 ## 教育背景
 
@@ -28,7 +28,7 @@ layout: homepage
 
 <h4 style="margin:0 10px 0;">计算机科学与技术学士</h4>
 
-<p style="margin:0 20px 20px;">清华大学交叉信息研究院姚班。<i>2013年8月 - 2017年7月</i></p>
+<p style="margin:0 20px 20px;">清华大学交叉信息研究院（姚班）。<i>2013年8月 - 2017年7月</i></p>
 
 
 <h2 id="publications" style="margin: 2px 0px -15px;">代表性论文</h2>
@@ -85,7 +85,7 @@ layout: homepage
 </div>
 
 
-## 精选经历
+## 代表性经历
 
 <h4 style="margin:0 10px 0;">工作经历</h4>
 
