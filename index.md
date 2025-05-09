@@ -2,9 +2,11 @@
 layout: homepage
 ---
 
+<a href="zh">简体中文页面</a>
+
 ## About Me
 
-I am a blockchain research scientist at Beijing Academy of Blockchain and Edge Computing. I am actively seeking collaboration with researchers in areas related to blockchain technology.
+I am a blockchain research scientist at Beijing Academy of Blockchain and Edge Computing, holding the same position at National Center of Technology Innovation for Blockchain. I am actively seeking collaboration with researchers in areas related to blockchain technology.
 
 I earned my Ph.D. in Computer Science at University of Illinois Urbana-Champaign, under the supervision of Prof. Pramod Viswanath.
 
