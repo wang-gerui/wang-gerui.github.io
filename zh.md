@@ -88,7 +88,7 @@ layout: homepage_zh
 ## 代表性经历
 
 <h4 style="margin:0 10px 0;">所获荣誉</h4>
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li>北京市劳动模范</li>
 </ul>
 <h4 style="margin:0 10px 0;">工作经历</h4>
@@ -101,13 +101,14 @@ layout: homepage_zh
 
 <h4 style="margin:0 10px 0;">学术访问</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li><i>2016年春季</i>，<b>访问学生</b>，康奈尔大学计算机科学系</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">教学工作</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li><i>2021年春季与2022年春季</i>，<b>区块链原理课程</b>，伊利诺伊大学厄巴纳-香槟分校</li>
 </ul>
+
 
