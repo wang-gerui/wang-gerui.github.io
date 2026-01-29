@@ -1,5 +1,10 @@
 ## Selected Experience
 
+<h4 style="margin:0 10px 0;">Honors and Awards</h4>
+<ul style="margin:0 0 5px;">
+  <li>Beijing Model Worker</li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Work</h4>
 
 <ul style="margin:0 0 5px;">
@@ -10,12 +15,12 @@
 
 <h4 style="margin:0 10px 0;">Visiting</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li><i>Spring 2016</i>, <b>Visiting Student</b>, Department of Computer Science, Cornell University</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching</h4>
 
-<ul style="margin:0 0 20px;">
+<ul style="margin:0 0 5px;">
   <li><i>Spring 2021 and Spring 2022</i>, <b>Principles of Blockchains</b>, University of Illinois Urbana-Champaign</li>
 </ul>

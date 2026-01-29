@@ -87,10 +87,11 @@ layout: homepage_zh
 
 ## 代表性经历
 
-<h4 style="margin:0 10px 0;">所获荣誉</h4>
+<h4 style="margin:0 10px 0;">荣誉与奖励</h4>
 <ul style="margin:0 0 5px;">
   <li>北京市劳动模范</li>
 </ul>
+
 <h4 style="margin:0 10px 0;">工作经历</h4>
 
 <ul style="margin:0 0 5px;">
