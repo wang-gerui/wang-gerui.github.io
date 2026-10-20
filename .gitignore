@@ -1,0 +1,13 @@
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+.DS_Store
+.jekyll-cache
+git-update.sh
+
+# 忽略 portfolio 目录下的所有文件
+assets/img/portfolio/*
+
+# 但保留所有 .webp 文件（否定模式）
+!assets/img/portfolio/*.webp
